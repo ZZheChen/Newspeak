@@ -1,0 +1,2 @@
+# Newspeak
+Just for test.
